@@ -1,4 +1,4 @@
-# We'll build a Sales Analytics Dashboard API using Node.js, Express.js, and MongoDB/PostgreSQL, with Chart.js/D3.js for data visualization.
+# We'll build a Sales Analytics Dashboard API using Node.js, Express.js, and MongoDB, with Chart.js for data visualization.
 
 ## Tech Stack
 
@@ -8,3 +8,8 @@
 - Charts(Chart.js)
 - Middleware(CORS, Helmet, Logging (Morgan), Body-Parser)
 - Frontend(React.js)
+
+## Steps to run
+
+- npm i
+- node server.js
